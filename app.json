@@ -16,34 +16,34 @@
     "env": {
         "API_ID": {
             "description": "You api id, from my.telegram.org or @ScrapperRoBot.",
-            "value": "", 
+            "value": "15809797", 
             "required": false
         },
         "API_HASH": {
             "description": "You api hash, from my.telegram.org or @ScrapperRoBot.",
-            "value": "",
+            "value": "5fed05a5eeeec26ba6af2c50eadb0fe9",
             "required": false
         },
         "SESSION": {
             "description": "Session String (telethon or pyrogram) for your telegram user account. The userbot will NOT work without a session string!!",
-            "value": ""
+            "value": "1ApWapzMBu1OgrAFI0VVDvQsw7WelNCYRUmuFwd91IiZoD6WG_79PN_xYPSR9ffBvdwfQESKHKmMkTuOAzf11hGXmc2dcYyc49Ng_ENxFvcZfZVhuH1uhmxZA1Fl9eR9HZuJZ8XUQ2eX1raZGqli9z4FJxpRbs-Vhg6C9J4Mk1v69wSrTzkh0MRcdL9g3rl6f_QLjQrakt-YaeYKXJfDCF1vYwOPgqDWfcLQ8aOB7SuLJ074u7AxclFXszVEkNgPbAn4TmyJZEiCKBQBarVdMYUhbXh2PrJ4SUcrxZn31kvglVhDTHmeHoiMGnLK0ywmzFdQGhrXhw3JMIyLcB9jbmpWL5SZsWec="
         },
         "REDIS_URI": {
             "description": "Redis endpoint URL, from redislabs.com",
-            "value": ""
+            "value": "redis-16034.c266.us-east-1-3.ec2.cloud.redislabs.com:16034"
         },
         "REDIS_PASSWORD": {
             "description": "Redis endpoint password, from redislabs.com",
-            "value": ""
+            "value": "2oT5s6774dC5Ye14cVp5lu07U1E8xeV7"
         },
         "HEROKU_API": {
             "description": "Heroku API token. Mandatory for Heroku Deploy...",
-            "value": "",
+            "value": "cecbf5ae-7797-40e5-8f9b-5c4be9339b6e",
             "required": false
         },
         "HEROKU_APP_NAME": {
             "description": "Name of your Heroku app, given in the first blank on this page. To be added if deploying to heroku ONLY.",
-            "value": "",
+            "value": "ultroid-n",
             "required": false
         }
     },
